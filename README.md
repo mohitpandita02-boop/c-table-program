@@ -38,5 +38,5 @@ and so on....
 This program is created for practice while learning C programming, focusing on loops and user input.
 
 ## 👤 Author
-Your Name
+
 Mohit Pandita

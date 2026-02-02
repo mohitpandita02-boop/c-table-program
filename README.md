@@ -11,11 +11,17 @@ This is a simple C program that prints the multiplication table of a number ente
 ## 🧠 Example
 
 Input:
+
 5
+
 Output:
-5*1=5
-5*2=10
-5*3=15
+
+5 *1 = 5
+
+5 * 2 = 10
+
+5 * 3 = 15
+
 and so on....
 
 
